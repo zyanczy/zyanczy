@@ -11,6 +11,7 @@ I'm a Psychology and Cognitive Studies double major, with a minor in Computer Sc
 
 
 
+## About Me
 
 When I'm not coding or digging into data, you’ll probably find me diving into web design tutorials, active on Reddit, or experimenting with something new in the kitchen.  
 
