@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**zyanczy/zyanczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there! Welcome to Ziyan's GitHub.
 
 #I'm a Psychology and Cognitive Studies double major, with a minor in Computer Science. I’m passionate about **human-centered design**, and I love building projects that create real social impact.  
 
