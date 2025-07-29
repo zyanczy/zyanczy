@@ -20,7 +20,7 @@ I’m a big fan of cozy corners and quiet moments to just chill and reflect — 
 Currently, I’m focusing on growing my technical skills in machine learning, data storytelling, and thoughtful UI/UX. Always open to exciting projects and new collabs!
 
 
-## 📫 Contact Me
+## Contact Me
 
 - **LinkedIn**: www.linkedin.com/in/ziyan-chen-0b91b3289
 - **Email**: ziyan.chen@vanderbilt.edu
