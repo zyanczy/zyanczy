@@ -8,7 +8,7 @@ I'm a Psychology and Cognitive Studies double major, with a minor in Computer Sc
 
 Predict Student Future Test Scores: https://github.com/zyanczy/Ziyan_coding_challenge/blob/main/Submissions/README.md
 
-Happiness Score Prediction:
+Happiness Score Prediction: https://github.com/zyanczy/World-Happiness-Report-WHR-
 
 
 
