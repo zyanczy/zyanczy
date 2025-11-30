@@ -38,8 +38,11 @@ Currently, I’m focusing on growing my technical skills in machine learning, da
 ## 🛠 Tech Stack
 
 Languages: Python, R, Java, MATLAB, HTML
+
 Tools: Microsoft Office, Canva, Figma, Notion, WordPress
+
 ML/DS Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
+
 Specialties: EDA, predictive modeling, data visualization, UX prototyping
 
 ## ⭐ Community & Collaboration
