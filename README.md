@@ -31,7 +31,9 @@ Currently, I’m focusing on growing my technical skills in machine learning, da
 ## 💡 Contact Me
 
 - **LinkedIn**: www.linkedin.com/in/ziyan-chen-0b91b3289
+  
 - **Email**: ziyan.chen@vanderbilt.edu
+  
 - **Website/Blog**: https://subdued-wolfsbane-ece.notion.site/Mindful-Learning-Blogs-1d496dc23a34800497c6e8d55f2cc1e9?pvs=143
 
 
