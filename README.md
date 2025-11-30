@@ -9,18 +9,14 @@ I love projects that sit at the intersection of the mind and technology: predict
 
 ## 📁 Highlighted ML/AI & Data Science Projects
 
-student-test-score-prediction-model
+student-test-score-prediction-model: A regression-based ML model for predicting future student performance using study metrics, attendance, and behavioral variables.
 
-A regression-based ML model for predicting future student performance using study metrics, attendance, and behavioral variables.
-👉 https://github.com/zyanczy/Ziyan_coding_challenge
+-> https://github.com/zyanczy/Ziyan_coding_challenge
 
-world-happiness-score-predictor
-
-A machine learning pipeline analyzing global happiness indicators and predicting happiness index rankings.
+world-happiness-score-predictor: A machine learning pipeline analyzing global happiness indicators and predicting happiness index rankings.
 Features EDA, model comparisons, and visual storytelling dashboards.
-👉 https://github.com/zyanczy/World-Happiness-Report-WHR-
 
-
+-> https://github.com/zyanczy/World-Happiness-Report-WHR-
 
 
 ## 🌱 About Me
