@@ -16,7 +16,7 @@ student-test-score-prediction-model: A regression-based ML model for predicting 
 world-happiness-score-predictor: A machine learning pipeline analyzing global happiness indicators and predicting happiness index rankings.
 Features EDA, model comparisons, and visual storytelling dashboards.
 
--> https://github.com/zyanczy/World-Happiness-Report-WHR-
+-> https://github.com/zyanczy/student-test-score-prediction-model
 
 
 ## 🌱 About Me
